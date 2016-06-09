@@ -6,3 +6,4 @@ test
 [5]log by user5. Fix bug 2.
 [6]log by user6.
 [7]log by user7. Fix bug 3.
+[8]log by user8.
