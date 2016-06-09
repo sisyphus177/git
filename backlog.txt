@@ -3,3 +3,5 @@ test
 [2]log by user2.
 [3]log by user3.
 [4]log by user4. Fix bug 1.
+[5]log by user5.
+[6]log by user6.
