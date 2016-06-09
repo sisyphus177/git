@@ -1,2 +1,3 @@
 test
 [1]log by user1.
+[2]log by user2.
