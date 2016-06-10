@@ -7,4 +7,4 @@ test
 [6]log by user6.
 [7]log by user7. Fix bug 3.
 [8]log by user8.
-[9]log by user9.
+[9]log by user9. Fix bug 4.
